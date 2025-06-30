@@ -68,7 +68,7 @@ These insights can help:
 
 ## 👤 Author
 **Vishal Londhekar**  
-🎓 Data Science Certified | B.Tech in Mechanical Engineering  
+🎓 Certified Data Analyst/Data Scientist | B.Tech in Mechanical Engineering  
 📫 [LinkedIn](https://www.linkedin.com/in/vishal-londhekar) | 🌐 [GitHub](https://github.com/YourUsername)
 
 
